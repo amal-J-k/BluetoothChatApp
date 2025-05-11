@@ -13,7 +13,7 @@
         android:layout_height="60dp"
         android:layout_marginStart="3dp"
         android:layout_marginBottom="1dp"
-        android:text="Button"
+        android:text="connect"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button2"
         app:layout_constraintHorizontal_chainStyle="spread_inside"
@@ -25,7 +25,7 @@
         android:layout_height="60dp"
         android:layout_marginEnd="2dp"
         android:layout_marginBottom="2dp"
-        android:text="Button"
+        android:text="chat"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button3"
         app:layout_constraintStart_toEndOf="@+id/button" />
@@ -36,7 +36,7 @@
         android:layout_height="60dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="4dp"
-        android:text="Button"
+        android:text="Disconnect"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button2" />
